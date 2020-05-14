@@ -1,9 +1,7 @@
 ## Author and some information
 
-Buong Patrick
-
+Horace Achapa
 Am software developer by proffession and currrently working with Safaricom company as a technician enginneer
-Tel:+254797239875
 
 ## Project name
 
@@ -19,14 +17,14 @@ This projects is all about  the naming system of the Ghanian people and it calcu
 ## setup/installtion Requirement
 
 Open terminal
-git clone https://github.com/Patrick322/Akan-names.git
+git clone 
 cd Akan-names
 use code or atom .to open the clone repository on code or VScode respectively
 
 
 ## LIVELINK
 
- https://patrick322.github.io/Akan-names/
+ 
 
 
 ## Technologies used
