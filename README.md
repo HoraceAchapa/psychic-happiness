@@ -24,7 +24,7 @@ use code or atom .to open the clone repository on code or VScode respectively
 
 ## LIVELINK
 
- 
+ https://horaceachapa.github.io/psychic-happiness/
 
 
 ## Technologies used
